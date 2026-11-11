@@ -1,0 +1,33 @@
+﻿KeyName,SymbolImage,UnicodeFallback,AlternativeName,KeyCategory
+Tilde,,~,Squiggle; Approx sign,Punctuation
+Exclamation Mark,,!,Bang,Punctuation
+At Sign,,@,Commercial at; At,Punctuation
+Number Sign,,#,Hash; Pound,Punctuation
+Dollar Sign,,$,Dollar,Punctuation
+Percent Sign,,%,Percent,Punctuation
+Caret,,^,Circumflex; Hat,Punctuation
+Ampersand,,&,And sign,Punctuation
+Asterisk,,*,Star,Punctuation
+Left Parenthesis,,(,Opening parenthesis,Punctuation
+Right Parenthesis,,),Closing parenthesis,Punctuation
+Hyphen-Minus,,-,Dash; Minus,Punctuation
+Underscore,,_,Low line,Punctuation
+Equals Sign,,=,Equals,Punctuation
+Plus Sign,,+,Plus,Punctuation
+Left Square Bracket,,[,Opening square bracket,Bracket
+Right Square Bracket,,],Closing square bracket,Bracket
+Left Curly Brace,,{,Opening curly brace; Left brace,Bracket
+Right Curly Brace,,},Closing curly brace; Right brace,Bracket
+Backslash,,\,Reverse solidus,Symbol
+Vertical Bar,,|,Pipe; Vertical line,Symbol
+Semicolon,,;,Semi-colon,Punctuation
+Colon,,:,Colon,Punctuation
+Apostrophe,,' ,Single quote; Prime,Punctuation
+Quotation Mark,,"""",Double quote; Quote,Punctuation
+Comma,,",",Comma,Punctuation
+Period,,.,Dot; Full stop,Punctuation
+Less-Than Sign,,<,Left angle bracket; Less than,Symbol
+Greater-Than Sign,,>,Right angle bracket; Greater than,Symbol
+Slash,,/,Forward slash; Solidus,Punctuation
+Question Mark,,?,Question,Punctuation
+Grave Accent,,`,Backtick; Back quote,Punctuation

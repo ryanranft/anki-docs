@@ -1,0 +1,16 @@
+﻿Action,Shortcut,Category,Notes,
+Take a screenshot of the entire screen,⇧⌘3,Screenshot-Core,Saves to Desktop by default; click the thumbnail to edit,
+Turn the cursor into a crosshair,⇧⌘4,Screenshot-Core,Activates crosshair selection mode; does not capture a screenshot by itself
+Take a screenshot of a portion of the screen,"⇧⌘4, then drag and release",Screenshot-Core,Captures the portion of the screen inside the selected area
+Cancel a ⇧⌘4 area selection,Esc,Screenshot-Core,,
+Take a screenshot of a single window or menu,⇧⌘4 then Space,Screenshot-Core,Pointer becomes a camera icon; click the window to capture it,
+"While taking a screenshot, move the selected area to a different position without changing its size",Press and hold Space bar while dragging,Screenshot-Detail,After ⇧⌘4 while the crosshair is active
+Open the Screenshot app (capture toolbar),⇧⌘5,Screenshot-Core,,
+Copy a screenshot to the Clipboard instead of saving a file,Add ⌃ — e.g. ⌃⇧⌘3,Screenshot-Clipboard,Hold Control together with any screenshot shortcut,
+⇧⌘4 and Exclude a window's drop shadow,Hold ⌥ while clicking the window,Screenshot-Detail,After ⇧⌘4 then Space,
+Save a screenshot somewhere other than the default,Drag the thumbnail and drop it in the target location,Screenshot-Detail,No settings change needed,
+Put an existing screenshot thumbnail on the Clipboard,Control-click the thumbnail → Save to Clipboard,Screenshot-Detail,,
+Keep the thumbnail on screen while you decide what to do with the screenshot,Hover the pointer over the thumbnail,Screenshot-Detail,It stays until you act on it or move the pointer away,
+Default screenshot save location and filename,"Desktop; ""Screen Shot [date] at [time]""",Screenshot-Detail,,
+Ask Siri about the active window (macOS 27+, Beta),⌘⇧Space,Screenshot-Someday,Beta — verify before relying on it
+Ask Siri about a portion of the screen (macOS 27+, Beta),⌘⇧6,Screenshot-Someday,Beta — verify before relying on it

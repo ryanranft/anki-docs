@@ -1,0 +1,20 @@
+﻿KeyName,SymbolImage,UnicodeFallback,AlternativeName,KeyCategory
+command,,⌘,Command symbol; Apple key,Modifier
+shift,,⇧,Shift symbol,Modifier
+option,,⌥,Option symbol; Alt key,Modifier
+control,,⌃,Control symbol; Ctrl,Modifier
+fn / Globe,,🌐,Globe symbol; Function key,Modifier
+return,,↩,Return symbol; Enter,Editing
+delete,,⌫,Delete symbol; Backspace,Editing
+Forward Delete,,⌦,Forward delete symbol,Editing
+esc,,⎋,Escape symbol; Esc,Editing
+tab Right,,⇥,Tab Right symbol; Next field,Navigation
+tab Left,,⇤,Tab Left symbol; Previous field,Navigation
+Up Arrow,,↑,Up Arrow symbol,Navigation
+Down Arrow,,↓,Down Arrow symbol,Navigation
+Left Arrow,,←,Left Arrow symbol,Navigation
+Right Arrow,,→,Right Arrow symbol,Navigation
+Page Up,,⇞,Page Up symbol,Navigation
+Page Down,,⇟,Page Down symbol,Navigation
+Top,,↖,Top symbol; Home; Scroll to top,Navigation
+End,,↘,End symbol; Scroll to bottom,Navigation

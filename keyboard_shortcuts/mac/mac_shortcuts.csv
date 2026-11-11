@@ -1,0 +1,37 @@
+﻿Action,Shortcut,Category,Notes
+Cut,⌘X,Common,Cut the selected item and copy it to the Clipboard
+Copy,⌘C,Common,Copy to clipboard; This also works for files in the Finder
+Paste,⌘V,Common,Paste from clipboard; This also works for files in the Finder
+Undo,⌘Z,Common,Undo the previous command
+Redo Undo,⇧⌘Z,Common,Reverse the undo command
+Select All,⌘A,Common,Select All items
+Find,⌘F,Common,Find items in a document or open a Find window
+Find Next,⌘G,Common,Find the next occurrence
+Find Previous,⇧⌘G,Common,Find the previous occurrence
+Hide Front App,⌘H,Common,Hide the windows of the front app
+"View Front app, hide others",⌥⌘H,Common,View front app but hide all other apps
+Minimize,⌘M,Common,Minimize the front window to the Dock
+Minimize all,⌥⌘M,Common,Minimize all windows of the front app
+Open,⌘O,Common,Open the selected item; or a dialog to select a file
+Print,⌘P,Common,Open a print dialog
+Quit,⌘Q,Common,Quit the current app
+Save,⌘S,Common,Save the current document
+New Tab,⌘T,Common,Open a new tab
+Close Window,⌘W,Common,Close the front window
+Close All Windows,⌥⌘W,Common,Close all windows of the front app
+Force Quit Window,⌥⌘Esc,Common,Open force quit window
+Spotlight Search,⌘Space,Common,"Show spotlight search field; hide the spotlight search field; If Siri Ai (Beta is tuened on, you can start a conversation with Siri from the Spotlight Search field"
+Spotlight Search From Finder,⌥⌘Space,Common,Perform a Spotlight search from a Finder Window
+Character Viewer,⌃⌘Space or fn-E,Common,Show the Character Viewer
+Full Screen,⌃⌘F,Common,Full screen app; or Stop full screen app
+Quick Look,Space,Common,Preview the selected item
+Previous App Switcher,⌘Tab,Common,Switch to the next most recently used app
+Last App Switcher,⇧⌘Tab,Common,Switch to the least recently used app
+Window Switcher,⌘`,Common,Switch between the windows of the app you're using
+Screenshot of Entire Screen,⇧⌘3,Common,Take a screenshot of the entire screen
+Screenshot of Selected Portion,⇧⌘4,Common,Take a screenshot of a selected
+Open Screenshot App,⇧⌘5,Common,Open the Screenshot app to take a screenshot or record your screen
+New Folder,⇧⌘N,Common,Create a new empty folder in the Finder
+New Folder with Selection,⌃⌘N,Common,Create a new folder that contains the selected items
+Settings,"⌘,",Common,Open settings/preferences for the front app
+Quick Note,Fn-Q,Common,Create a Quick Note
