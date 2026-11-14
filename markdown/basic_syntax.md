@@ -485,3 +485,62 @@ See the section on [`code`](#code).
 
 The rendered output looks like this:
 
+I love supporting the **[EFF](https://eff.org)**.<br/>
+This is the *[Markdown Guide](https://www.markdownguide.org)*.<br/>
+See the section on [`code`](#code).
+
+#### Reference-style Links
+
+Reference-style links are a special kind of link that make URLs easier to display and read in Markdown. Reference-style links are constructed in two parts:
+
+1. The part you keep inline with your text
+2. The part you store somewhere else(footnotes) in the file to keep the text easy to read
+
+##### Formatting the First Part of the Link
+
+Both parts of a reference-style link are inside brackets. The first set of bracketed text is what is displayed as linked. The second set of brackets displays a label. used to point to the link you're storing elsewhere in your document.
+
+It is not required to add a space between the two sets of brackets, you can add a space though. The label in the second set of brackets is not case sensitive and can include letters, numbers, spaces, or punctuation.
+
+This means the following example formats are roughly equivalent for the first part of the link:
+
+- `[hobbit-hole][1]` or `[bracket-1][bracket-2]`
+- `[hobbit-hole] [1]` or `[bracket-1] [bracket-2]`
+
+##### Formatting the Second Part of the Link
+
+The second part of a reference-style link is formatted with the following attributes:
+
+1. The label, in brackets, followed immediately by a colon and at least one space. (e.g., [label]: ).
+
+    ```markdown
+    [bracket-1.0]: 
+    [hobbit-hole]: 
+    ```
+
+2. The URL for the link, which you can optionally enclose in angle brackets
+
+    ```markdown
+    [bracket-1.0]: https://bracket-2.com
+    [hobbit-hole]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle>
+    ```
+    or
+    ```markdown
+    [bracket-1.0]: https://bracket-2.com
+    [hobbit-hole]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle>
+    ```
+
+3. The optional title for the link, which you can enclose in double quotes, single quotes, or parentheses.
+
+    - `[bracket-1.0]: https://bracket-2.com`
+    - `[bracket-1.0]: https://bracket-2.com "Text 3 area"`
+    - `[bracket-1.0]: https://bracket-2.com 'Text 3 area'`
+    - `[bracket-1.0]: https://bracket-2.com (Text 3 area)`
+
+These are the remaining example formats that are roughly equivalent for the second part of the link:
+
+    - `[bracket-1.0]: <https://bracket-2.com "Text 3 area">`
+    - `[bracket-1.0]: <https://bracket-2.com 'Text 3 area'>`
+    - `[bracket-1.0]: <https://bracket-2.com (Text 3 area)>`
+
+You may place this second part of the link anywhere in your markdown document. Some people place them immediatley after the paragraph in which they appear while other people place them at the end of the document (like endnotes or footnotes).
